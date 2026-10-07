@@ -4,7 +4,7 @@ booktitle: 'Proceedings of IndabaX Nigeria 2026: Building Scalable AI That Works
 shortname: IndabaXNG
 volume: '319'
 year: '2026'
-start: &1 2026-05-11
+start: 2026-05-11
 end: 2026-05-14
 published: 2026-06-22
 layout: proceedings
@@ -72,7 +72,7 @@ conference:
   url: https://indabaxng.github.io/
   location: University of Ibadan, Ibadan, Nigeria
   dates:
-  - *1
+  - 2026-05-11
   - 2026-05-12
   - 2026-05-13
   - 2026-05-14
